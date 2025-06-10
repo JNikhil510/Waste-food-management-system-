@@ -1,5 +1,3 @@
-# Waste-food-management-system-
-WasteZero
 <!DOCTYPE html>
 <html lang="en">
 <head>
